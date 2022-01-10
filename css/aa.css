@@ -1,0 +1,319 @@
+@media (mid-width: 1280px) {
+    .container {
+        width: 1280px;
+    }
+}
+
+header {
+    padding-left: 0 !important;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.nav {
+    background-color: #eee;
+    border-bottom: 1px solid #ccc;
+}
+
+.spxx {
+    background-color: #eee;
+    border: 2px solid #ccc;
+}
+
+.label {
+    font-size: small;
+    vertical-align: super;
+}
+
+.spxx textarea {
+    font-size: 20px;
+}
+
+.spxx input-group {
+    line-height: 30px;
+}
+
+.radio-inline {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.nav a {
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 30px;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+    .nav a::before {
+        vertical-align: middle;
+        padding-right: 8px;
+        text-decoration: none;
+    }
+
+    .nav a:hover {
+        background-color: #fff;
+        color: #111;
+        text-decoration: none;
+    }
+
+a {
+    color: #777;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: none;
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.spxx li {
+    float: left;
+    width: 25%;
+    height: 128px;
+    padding-right: 10px;
+    font-size: 36px;
+}
+
+    .spxx li:nth-child(1) p {
+        padding-left: 14px;
+    }
+
+    .spxx li:nth-child(4) p {
+        text-indent: 2em;
+        font-size: 30px;
+    }
+
+    .spxx li:nth-child(5) p {
+        text-indent: 2em;
+        font-size: 20px;
+        text-decoration: line-through;
+        color: gray;
+        text-align: center;
+        line-height: 60px;
+    }
+
+    .spxx li:nth-child(6) p {
+        font-size: 40px;
+        color: red;
+        text-align: left;
+    }
+
+    .spxx li:nth-child(7) p {
+        font-size: 25px;
+        color: grey;
+        vertical-align: middle;
+    }
+
+    .spxx li:nth-child(10) p {
+        font-weight: 400;
+    }
+
+    .spxx li:nth-child(11) p {
+        font-weight: 400;
+    }
+
+    .spxx li:nth-child(12) p { /*服務類型*/
+        font-weight: 400;
+    }
+
+
+    .spxx li a {
+        position: relative;
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+
+        .spxx li a img {
+            width: 100%;
+            height: 100%;
+        }
+
+
+    .spxx li:nth-child(1) {
+        width: 100%;
+        height: 50px;
+        background-color: gray;
+    }
+
+    .spxx li:nth-child(2) {
+        width: 30%;
+        height: 280px;
+    }
+
+    .spxx li:nth-child(3) {
+        width: 70%;
+        height: 30px;
+    }
+
+    .spxx li:nth-child(4) {
+        width: 70%;
+        height: 130px;
+        background-color: #eee;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .spxx li:nth-child(5) {
+        width: 13%;
+        height: 71px;
+        background-color: #eee;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .spxx li:nth-child(6) {
+        width: 57%;
+        height: 71px;
+        background-color: #eee;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .spxx li:nth-child(7) {
+        width: 70%;
+        height: 49px;
+        background-color: #eee;
+    }
+
+    .spxx li:nth-child(8) p {
+        padding-left: 14px;
+    }
+
+    .spxx li:nth-child(8) {
+        width: 100%;
+        height: 50px;
+        background-color: gray;
+    }
+
+    .spxx li:nth-child(9) {
+        width: 100%;
+        height: 30px;
+    }
+
+    .spxx li:nth-child(10) {
+        width: 30%;
+        height: 65px;
+        /*border-bottom:1px solid gray;*/
+    }
+
+    .spxx li:nth-child(11) {
+        width: 30%;
+        height: 65px;
+        /*border-bottom:1px solid gray;*/
+    }
+
+    .spxx li:nth-child(12) {
+        width: 30%;
+        height: 65px;
+        /*border-bottom:1px solid gray;*/
+    }
+
+    .spxx li:nth-child(13) {
+        width: 100%;
+        height: 10px;
+        border-top: 1px solid gray;
+    }
+
+    .spxx li:nth-child(14) {
+        width: 30%;
+        height: 50px;
+        line-height: 49px;
+        border-bottom: 1px solid gray;
+    }
+
+    .spxx li:nth-child(15) { /*選擇按鈕*/
+        width: 70%;
+        height: 50px;
+        line-height: 40px;
+        border-bottom: 1px solid gray;
+    }
+
+    .spxx li:nth-child(16) { /*空白*/
+        width: 100%;
+        height: 10px;
+    }
+
+    .spxx li:nth-child(17) {
+        width: 30%;
+        height: 110px;
+        line-height: 59px;
+    }
+
+    .spxx li:nth-child(18) { /*輸入框*/
+        width: 70%;
+        height: 110px;
+        line-height: 50px;
+    }
+
+    .spxx li:nth-child(19) {
+        width: 30%;
+        height: 22px;
+        border-bottom: 1px solid gray;
+    }
+
+    .spxx li:nth-child(20) {
+        width: 70%;
+        height: 22px;
+        line-height: 16px;
+        border-bottom: 1px solid gray;
+    }
+
+    .spxx li:nth-child(21) { /*退款金額*/
+        width: 30%;
+        height: 60px;
+        line-height: 59px;
+        border-bottom: 1px solid gray;
+    }
+
+    .spxx li:nth-child(22) { /*空白*/
+        width: 70%;
+        height: 11px;
+    }
+
+    .spxx li:nth-child(23) {
+        width: 70%;
+        height: 49px;
+        line-height: 30px;
+        border-bottom: 1px solid gray;
+    }
+
+    .spxx li:nth-child(24) { /*聯係方式*/
+        width: 30%;
+        height: 60px;
+        line-height: 59px;
+        border-bottom: 1px solid gray;
+    }
+
+    .spxx li:nth-child(25) { /*空白*/
+        width: 70%;
+        height: 11px;
+    }
+
+    .spxx li:nth-child(26) {
+        width: 70%;
+        height: 49px;
+        line-height: 59px;
+        border-bottom: 1px solid gray;
+    }
+
+    .spxx li:nth-child(27) {
+        width: 100%;
+        height: 30px;
+        line-height: 59px;
+    }
+
+
+
+.footer {
+    height: 300px;
+    background-color: darkcyan;
+}
